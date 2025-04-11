@@ -1,20 +1,16 @@
 # SarahPresaleToken
-A Hedera testnet token created with Remix and deployed via MetaMask using Hashio RPC.
-
-# SarahPresaleToken
 
 A custom ERC-20 token deployed to the Hedera Testnet using Solidity, Remix, MetaMask, and Hashio.
 
 ---
 
-### 🔗 Contract Details
+🔗 Contract Details
 
-🆔 **Contract ID**: `0.0.5851055`  
+Contract ID**: `0.0.5851055`  
 🌐 [View on HashScan](https://hashscan.io/testnet/contract/0.0.5851055)
 
----
 
-### 🧠 About This Project
+About This Project
 
 - Token Name: SarahToken  
 - Symbol: SARAH  
@@ -24,5 +20,5 @@ A custom ERC-20 token deployed to the Hedera Testnet using Solidity, Remix, Meta
 
 ---
 
-### 👩‍💻 Created by: Sarah Woods
+Created by: Sarah Woods
 
